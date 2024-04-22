@@ -1,4 +1,4 @@
-Desrciption: Our goal was to use data to figure out what neighborhood is the best in Pittsburgh. We created our own metrics to decide what the best was and we chose to do safety in terms of natural disasters and disruptions in the environment.
+Description: Our goal was to use data to figure out what neighborhood is the best in Pittsburgh. We created our own metrics to decide what the best was and we chose to do safety in terms of natural disasters and disruptions in the environment.
 Group Name: Natural Disaster Fighters
 Team: Alok Addanki- aka139@pitt.edu, Nate Stevens- nas629@pitt.edu, Shuo Huang- shh261@pitt.edu
 
